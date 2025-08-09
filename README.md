@@ -1,2 +1,0 @@
-# teste-alura
-teste
