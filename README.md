@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 markdown
 CopiarEditar
 # Previsão de Preço de Imóveis 🏠
@@ -23,3 +24,7 @@ Este projeto realiza previsão de preços de imóveis utilizando regressão line
 
 ## 📁 Notebook
 📘 [Ver no nbviewer](https://nbviewer.org/github/usuario/repositorio/blob/main/notebook/previsao_preco.ipynb)
+=======
+# teste-alura
+teste
+>>>>>>> dd30fca8f5cc941c5d6dab610cc253835b61fd87
